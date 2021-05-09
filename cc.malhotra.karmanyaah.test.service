@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=cc.malhotra.karmanyaah.test
+Exec=/home/karmanyaahm/Documents/code/forks/unified_push/dbus_test/script.sh 
